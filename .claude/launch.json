@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "nextjs-dev",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd nextjs-app && npm run dev"],
+      "port": 3000
+    }
+  ]
+}
