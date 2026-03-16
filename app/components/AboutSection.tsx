@@ -21,7 +21,7 @@ const attributes = [
   {
     num: '04',
     label: 'Operator Roots',
-    text: 'Extensive experience in owning, operating, and managing businesses across multiple asset classes — we understand what it takes to build.',
+    text: 'Extensive experience in owning, operating, and managing businesses across multiple asset classes; we understand what it takes to build.',
   },
 ]
 
@@ -75,7 +75,7 @@ export default function AboutSection() {
             </ScrollReveal>
           </div>
 
-          {/* Right column — attributes */}
+          {/* Right column: attributes */}
           <div className="lg:col-span-7">
             <div className="grid gap-0 sm:grid-cols-2">
               {attributes.map((attr, i) => (

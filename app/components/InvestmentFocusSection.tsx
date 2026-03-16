@@ -63,8 +63,8 @@ export default function InvestmentFocusSection() {
         <div className="absolute top-0 right-[30%] hidden h-full w-px bg-gradient-to-b from-transparent via-scala-black/[0.03] to-transparent lg:block" />
       </div>
       <div className="relative mx-auto max-w-6xl">
-        {/* Faint decorative background text — sits behind heading */}
-        <div className="pointer-events-none absolute -top-6 -left-4 select-none font-cardo text-[10rem] leading-none font-bold text-scala-black/[0.015] lg:text-[14rem]">
+        {/* Faint decorative background text, sits behind heading */}
+        <div className="pointer-events-none absolute -top-6 -left-4 select-none font-cardo text-[10rem] leading-none font-bold text-scala-black/[0.06] lg:text-[14rem]">
           FOCUS
         </div>
 
@@ -83,7 +83,7 @@ export default function InvestmentFocusSection() {
           </h2>
         </ScrollReveal>
 
-        {/* Stage spectrum — visual timeline */}
+        {/* Stage spectrum: visual timeline */}
         <ScrollReveal delay={0.2}>
           <div className="mt-16 mb-20">
             <span className="mb-8 block font-nunito text-[11px] font-light tracking-[0.3em] text-scala-gray/60 uppercase">
@@ -139,7 +139,7 @@ export default function InvestmentFocusSection() {
                 ))}
               </div>
               <p className="mt-10 border-l-2 border-scala-blue/15 pl-5 font-nunito text-sm leading-[1.8] font-light text-scala-gray/60 italic">
-                We are industry agnostic by policy — sector labels are secondary
+                We are industry agnostic by policy; sector labels are secondary
                 to problem clarity, founder insight, and execution potential.
               </p>
             </div>

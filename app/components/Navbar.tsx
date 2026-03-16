@@ -27,7 +27,7 @@ export default function Navbar() {
           : 'bg-transparent'
       }`}
     >
-      <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5 lg:px-8">
+      <div className="mx-auto flex max-w-1xl items-center justify-between px-6 py-5 lg:px-12">
         <a
           href="#"
           className="group flex items-center gap-3 font-cardo text-xl font-bold tracking-wide text-white"

@@ -7,7 +7,7 @@ const pillars = [
     num: '01',
     title: 'Structural Opportunity',
     description:
-      'Persistent operational problems that have been solved in Western markets remain unresolved across Southeast Asia — creating fertile ground for technology-enabled leapfrogging.',
+      'Persistent operational problems that have been solved in Western markets remain unresolved across Southeast Asia, creating fertile ground for technology-enabled leapfrogging.',
   },
   {
     num: '02',
@@ -55,13 +55,13 @@ export default function ThesisSection() {
           <path d="M245 150 L265 145 L275 160 L270 180 L260 190 L248 178 L242 165 Z" />
           {/* Papua / Eastern Islands */}
           <path d="M310 270 L340 260 L370 265 L395 275 L410 290 L400 310 L375 315 L345 310 L320 300 L310 285 Z" />
-          {/* Smaller islands — Bali, Lombok, Flores, Timor chain */}
+          {/* Smaller islands: Bali, Lombok, Flores, Timor chain */}
           <path d="M270 375 L285 372 L300 375 L315 378 L330 380 L345 385 L330 392 L310 390 L290 388 L270 385 Z" />
         </svg>
       </div>
 
       <div className="relative mx-auto max-w-6xl">
-        {/* Header — asymmetric layout */}
+        {/* Header: asymmetric layout */}
         <div className="grid gap-8 lg:grid-cols-12">
           <div className="lg:col-span-7">
             <ScrollReveal>
@@ -84,7 +84,7 @@ export default function ThesisSection() {
             <ScrollReveal delay={0.15}>
               <p className="max-w-md font-nunito text-base leading-[1.8] font-light text-scala-gray lg:pb-1">
                 The region presents a convergence of structural gaps, rising talent,
-                and underfunded ecosystems — the conditions that produce outsized
+                and underfunded ecosystems, the conditions that produce outsized
                 venture outcomes.
               </p>
             </ScrollReveal>

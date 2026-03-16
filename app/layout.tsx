@@ -17,11 +17,11 @@ const nunito = Nunito_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'Scala Capital — Investing in Early-Stage SEA Innovation',
+  title: 'Scala Capital - Investing in Early-Stage SEA Innovation',
   description:
     'Scala Capital is a family-backed investment platform focused on early-stage venture investing in Southeast Asia. We partner with ambitious founders solving real structural problems.',
   openGraph: {
-    title: 'Scala Capital — Investing in Early-Stage SEA Innovation',
+    title: 'Scala Capital - Investing in Early-Stage SEA Innovation',
     description:
       'Family-backed early-stage venture capital for Southeast Asia. Patient capital, fast decisions, direct founder partnerships.',
     url: 'https://www.scalacapital.com',

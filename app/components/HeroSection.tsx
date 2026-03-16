@@ -5,7 +5,7 @@ import { motion } from 'framer-motion'
 export default function HeroSection() {
   return (
     <section className="noise grid-pattern relative flex min-h-screen items-center overflow-hidden bg-scala-black px-6 lg:px-8">
-      {/* Ambient gradient orb — slowly breathing light */}
+      {/* Ambient gradient orb, slowly breathing light */}
       <div className="pointer-events-none absolute inset-0 overflow-hidden">
         <div
           className="absolute -top-32 -right-32 h-[600px] w-[600px] rounded-full opacity-[0.18] blur-[120px] lg:h-[800px] lg:w-[800px]"

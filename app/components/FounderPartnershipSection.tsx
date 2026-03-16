@@ -5,7 +5,7 @@ import ScrollReveal from './ScrollReveal'
 const expectations = [
   {
     title: 'Fewer decision-makers',
-    detail: 'A small, trusted group with direct authority — no committee layers.',
+    detail: 'A small, trusted group with direct authority, with no committee layers.',
   },
   {
     title: 'Faster decisions',
