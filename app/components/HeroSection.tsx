@@ -41,8 +41,8 @@ export default function HeroSection() {
               transition={{ duration: 1, delay: 0.5, ease: [0.22, 1, 0.36, 1] }}
               className="font-cardo text-[2.75rem] leading-[1.05] font-normal tracking-[-0.02em] text-white sm:text-[3.5rem] md:text-[4rem] lg:text-[4.5rem] xl:text-[5rem]"
             >
-              Partnering with ambitious founders solving structural problems in{' '}
-              <span className="text-scala-sky">Southeast Asia</span>
+              Partnering with ambitious founders shaping{' '}
+              <span className="text-scala-sky">what comes next</span>
             </motion.h1>
 
             <motion.p
