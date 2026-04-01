@@ -10,7 +10,7 @@ export default function Footer() {
             </span>
             <div className="hidden h-3 w-px bg-white/10 sm:block" />
             <span className="hidden font-nunito text-[10px] font-light tracking-wider text-white/20 sm:block">
-              New York &middot; Southeast Asia
+              New York &middot; Global
             </span>
           </div>
           <div className="flex gap-8">

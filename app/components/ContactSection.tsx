@@ -42,19 +42,18 @@ export default function ContactSection() {
 
           <ScrollReveal delay={0.2}>
             <p className="mx-auto mt-8 max-w-lg font-nunito text-base leading-[1.8] font-light text-white/40">
-              We are actively investing in founders across Southeast Asia who are
-              solving real problems with venture-scale ambition.
+              We are actively investing in founders solving real problems with venture-scale ambition.
             </p>
           </ScrollReveal>
 
           <ScrollReveal delay={0.3}>
             <div className="mt-14 flex flex-col items-center gap-8">
               <a
-                href="mailto:founders@scalacapital.com"
+                href="mailto:founders@scala-vc.com"
                 className="group relative inline-flex items-center gap-4 overflow-hidden border border-white/20 bg-white/[0.04] px-10 py-5 font-nunito text-[13px] font-light tracking-[0.2em] text-white uppercase backdrop-blur-sm transition-all duration-700 hover:border-white/40 hover:bg-white/[0.08]"
               >
                 <span className="absolute inset-0 -translate-x-full bg-white/[0.06] transition-transform duration-700 group-hover:translate-x-0" />
-                <span className="relative">founders@scalacapital.com</span>
+                <span className="relative">founders@scala-vc.com</span>
                 <span className="relative transition-transform duration-300 group-hover:translate-x-1.5">
                   &rarr;
                 </span>
